@@ -1029,7 +1029,18 @@ http://m3ulink.com:6969/andresbio86131/yyAaRaS0/33595
 http://m3ulink.com:6969/andresbio86131/yyAaRaS0/33626
 #EXTINF:-1 tvg-ID="tnt.es" tvg-name="ES: TNT FHD" tvg-logo="http://iptvreseller.xyz:1234/Anh/tnt.png" group-title="Spain",ES: TNT FHD
 http://m3ulink.com:6969/andresbio86131/yyAaRaS0/17151
-#EXTM3U
+#EXTINF:-1,NL: Ziggo Sport Docu FHD
+http://m3ulink.com:6969/live/andresbio86131/yyAaRaS0/46592.m3u8
+#EXTINF:-1,NL: Ziggo Sport Extra 2 FHD
+http://m3ulink.com:6969/live/andresbio86131/yyAaRaS0/46591.m3u8
+#EXTINF:-1,NL: Ziggo Sport Golf FHD
+http://m3ulink.com:6969/live/andresbio86131/yyAaRaS0/46593.m3u8
+#EXTINF:-1,NL: Ziggo Sport Racing FHD
+http://m3ulink.com:6969/live/andresbio86131/yyAaRaS0/46594.m3u8
+#EXTINF:-1,NL: Ziggo Sport Voetbal FHD
+http://m3ulink.com:6969/live/andresbio86131/yyAaRaS0/46595.m3u8
+#EXTINF:-1,NL: Ziggo TV
+http://m3ulink.com:6969/live/andresbio86131/yyAaRaS0/17628.m3u8
 #EXTINF:-1,Latino: ESPN 3
 http://m3ulink.com:6969/andresbio86131/yyAaRaS0/5192
 #EXTINF:-1,Latino: ESPN 2
@@ -1304,7 +1315,7 @@ http://m3ulink.com:6969/andresbio86131/yyAaRaS0/31541
 http://m3ulink.com:6969/andresbio86131/yyAaRaS0/8139
 #EXTINF:-1,DE: Sky Bundesliga 8 (VIP)
 http://m3ulink.com:6969/andresbio86131/yyAaRaS0/47740
-#EXTINF:-1, tvg-ID="" tvg-name="DE: Sky Bundesliga 8 HD" tvg-logo="" group-title="Germany",DE: Sky Bundesliga 8 HD
+#EXTINF:-1,,DE: Sky Bundesliga 8 HD
 http://m3ulink.com:6969/andresbio86131/yyAaRaS0/47724
 #EXTINF:-1,DE: Sky Bundesliga 8 HD  (Live Event)
 http://m3ulink.com:6969/andresbio86131/yyAaRaS0/31540
@@ -1737,7 +1748,7 @@ http://m3ulink.com:6969/andresbio86131/yyAaRaS0/10172
 http://m3ulink.com:6969/andresbio86131/yyAaRaS0/10171
 #EXTINF:-1,VIP: OTE Sports 5 HD
 http://m3ulink.com:6969/andresbio86131/yyAaRaS0/10170
-#EXTINF:-1, tvg-ID="" tvg-name="VIP: OTE Sports 6 HD" 
+#EXTINF:-1,VIP: OTE Sports 6 HD" 
 http://m3ulink.com:6969/andresbio86131/yyAaRaS0/10169
 #EXTINF:-1, tvg-ID="" tvg-name="VIP: OTE Sports 7 HD" tvg-logo="http://ulango.tv/uploads/channels/1022598/logo_ote%20sports%207.png" group-title="Greece",VIP: OTE Sports 7 HD
 http://m3ulink.com:6969/andresbio86131/yyAaRaS0/10168

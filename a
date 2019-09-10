@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="----- LATINO -----" tvg-logo="" group-title="Brasil",----- LATINO -----
 http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/3255.ts
+#EXTINF:-1 tvg-id="MTVClassic.us" tvg-name="USA: VH1 Classic" tvg-logo="" group-title="USA",USA: VH1 Classic
+http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/2012.ts
 #EXTINF:-1 tvg-id="" tvg-name="Latino: A&E HD" tvg-logo="" group-title="Brasil",Latino: A&E HD
 http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/3229.ts
 #EXTINF:-1 tvg-id="Platino.mx" tvg-name="Latino: AMC" tvg-logo="" group-title="Brasil",Latino: AMC
@@ -83,6 +85,124 @@ http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/3241.ts
 http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/3242.ts
 #EXTINF:-1 tvg-id="HBOLatino.us" tvg-name="Latino: ESPN 3" tvg-logo="" group-title="Brasil",Latino: ESPN 3
 http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/3243.ts
+#EXTINF:-1 tvg-id="ESPNBrasil.br" tvg-name="BR: ESPN Brasil" tvg-logo="" group-title="Brasil",BR: ESPN Brasil
+http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/2049.ts
+#EXTINF:-1 tvg-id="ESPN.br" tvg-name="BR: ESPN HD" tvg-logo="" group-title="Brasil",BR: ESPN HD
+http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/4207.ts
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="UK: BT Sport 1 HD" tvg-logo="" group-title="United Kingdom",UK: BT Sport 1 HD
+http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/6048.ts
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="UK: BT Sport 2 HD" tvg-logo="" group-title="United Kingdom",UK: BT Sport 2 HD
+http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/6049.ts
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="UK: BT Sport 3 HD" tvg-logo="" group-title="United Kingdom",UK: BT Sport 3 HD
+http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/6809.ts
+#EXTINF:-1 tvg-id="BTSportESPN.uk" tvg-name="UK: BT Sport ESPN" tvg-logo="" group-title="United Kingdom",UK: BT Sport ESPN
+http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/6050.ts
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="UK | BT Sport 1 HD" tvg-logo="" group-title="United Kingdom",UK | BT Sport 1 HD
+http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/1726.ts
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="UK | BT Sport 2 HD" tvg-logo="" group-title="United Kingdom",UK | BT Sport 2 HD
+http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/1727.ts
+#EXTINF:-1 tvg-id="BTSportESPN.uk" tvg-name="UK | BT Sport ESPN" tvg-logo="" group-title="United Kingdom",UK | BT Sport ESPN
+http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/1728.ts
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="US: ESPN" tvg-logo="" group-title="USA",US: ESPN
+http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/6147.ts
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="US: ESPN 2" tvg-logo="" group-title="USA",US: ESPN 2
+http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/6589.ts
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="US: ESPN HD" tvg-logo="" group-title="USA",US: ESPN HD
+http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/6567.ts
+#EXTINF:-1 tvg-id="ESPNNews.us" tvg-name="US: ESPN News US HD" tvg-logo="" group-title="USA",US: ESPN News US HD
+http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/6577.ts
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="US: ESPN U HD" tvg-logo="" group-title="USA",US: ESPN U HD
+http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/6163.ts
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="USA: ESPN 2" tvg-logo="" group-title="USA",USA: ESPN 2
+http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/2040.ts
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="USA | ESPN" tvg-logo="" group-title="USA",USA | ESPN
+http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/1960.ts
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="USA | Fox Sports 1 HD" tvg-logo="" group-title="USA",USA | Fox Sports 1 HD
+http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/1961.ts
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="USA | Fox Sports 2 HD" tvg-logo="" group-title="USA",USA | Fox Sports 2 HD
+http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/1962.ts
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="USA ESPN HD" tvg-logo="" group-title="USA",USA ESPN HD
+http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/1941.ts
+#EXTINF:-1 tvg-id="ESPNNews.us" tvg-name="USA: ESPN News US HD" tvg-logo="" group-title="USA",USA: ESPN News US HD
+http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/4548.ts
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="USA: ESPN U HD" tvg-logo="" group-title="USA",USA: ESPN U HD
+http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/4547.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK | BT Sport Europe HD" tvg-logo="" group-title="United Kingdom",UK | BT Sport Europe HD
+http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/1729.ts
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="US: Fox Sports 1 HD" tvg-logo="" group-title="USA",US: Fox Sports 1 HD
+http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/6148.ts
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="US: Fox Sports 2 HD" tvg-logo="" group-title="USA",US: Fox Sports 2 HD
+http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/6149.ts
+#EXTINF:-1 tvg-id="FoxSports3.nl" tvg-name="NL: FOX Sports 3 HD ( 1080P )" tvg-logo="" group-title="Netherlands",NL: FOX Sports 3 HD ( 1080P )
+http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/4816.ts
+#EXTINF:-1 tvg-id="FoxSports4.nl" tvg-name="NL: Fox Sports 4 HD ( 1080P )" tvg-logo="" group-title="Netherlands",NL: Fox Sports 4 HD ( 1080P )
+http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/4818.ts
+#EXTINF:-1 tvg-id="FoxSports5.nl" tvg-name="NL: Fox Sports 5 HD ( 1080P )" tvg-logo="" group-title="Netherlands",NL: Fox Sports 5 HD ( 1080P )
+http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/4817.ts
+#EXTINF:-1 tvg-id="FoxSports1.nl" tvg-name="NL: Fox Sports 1" tvg-logo="" group-title="Netherlands",NL: Fox Sports 1
+http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/484.ts
+#EXTINF:-1 tvg-id="FOXSports1.ph" tvg-name="NL: FOX Sports 1 FHD 1080" tvg-logo="" group-title="Netherlands",NL: FOX Sports 1 FHD 1080
+http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/480.ts
+#EXTINF:-1 tvg-id="FoxSports2.nl" tvg-name="NL: Fox Sports 2" tvg-logo="" group-title="Netherlands",NL: Fox Sports 2
+http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/485.ts
+#EXTINF:-1 tvg-id="FoxSports2.nl" tvg-name="NL: FOX Sports 2 HD" tvg-logo="" group-title="Netherlands",NL: FOX Sports 2 HD
+http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/479.ts
+#EXTINF:-1 tvg-id="FoxSports3.nl" tvg-name="NL: Fox Sports 3" tvg-logo="" group-title="Netherlands",NL: Fox Sports 3
+http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/486.ts
+#EXTINF:-1 tvg-id="FoxSports4.nl" tvg-name="NL: Fox Sports 4" tvg-logo="" group-title="Netherlands",NL: Fox Sports 4
+http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/487.ts
+#EXTINF:-1 tvg-id="FoxSports5.nl" tvg-name="NL: Fox Sports 5" tvg-logo="" group-title="Netherlands",NL: Fox Sports 5
+http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/488.ts
+#EXTINF:-1 tvg-id="FoxSports6.nl" tvg-name="NL: Fox Sports 6" tvg-logo="" group-title="Netherlands",NL: Fox Sports 6
+http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/489.ts
+#EXTINF:-1 tvg-id="" tvg-name="SG: Eleven HD" tvg-logo="" group-title="Singapore",SG: Eleven HD
+http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/5794.ts
+#EXTINF:-1 tvg-id="" tvg-name="SG: Eleven Sport HD" tvg-logo="" group-title="Singapore",SG: Eleven Sport HD
+http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/5793.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SG: Eleven Plus 103 HD" tvg-logo="" group-title="Singapore",VIP SG: Eleven Plus 103 HD
+http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/5796.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP SG: FOX SPORTS 1 HD" tvg-logo="" group-title="Singapore",VIP SG: FOX SPORTS 1 HD
+http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/5792.ts
+#EXTINF:-1 tvg-id="FoxSport.il" tvg-name="IT: FOX Sport HD" tvg-logo="" group-title="Italy",IT: FOX Sport HD
+http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/63.ts
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="DE: Sky Sport 1 FHD" tvg-logo="" group-title="Germany",DE: Sky Sport 1 FHD
+http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/5970.ts
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="DE: Sky Sport 1 HD 1080P" tvg-logo="" group-title="Germany",DE: Sky Sport 1 HD 1080P
+http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/5933.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIP UK: Premier Sports FHD 1080" tvg-logo="" group-title="United Kingdom",VIP UK: Premier Sports FHD 1080
+http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/6804.ts
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="VIP UK: SKY NEWS 1080P HD" tvg-logo="" group-title="United Kingdom",VIP UK: SKY NEWS 1080P HD
+http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/3999.ts
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="VIP UK: Sky Sports 1 HD 1080p" tvg-logo="" group-title="United Kingdom",VIP UK: Sky Sports 1 HD 1080p
+http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/1824.ts
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="VIP UK: Sky Sports 2 HD 1080p" tvg-logo="" group-title="United Kingdom",VIP UK: Sky Sports 2 HD 1080p
+http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/1823.ts
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="VIP UK: Sky Sports 4 HD 1080p" tvg-logo="" group-title="United Kingdom",VIP UK: Sky Sports 4 HD 1080p
+http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/1821.ts
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="VIP UK: Sky Sports 5 HD 1080p" tvg-logo="" group-title="United Kingdom",VIP UK: Sky Sports 5 HD 1080p
+http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/1820.ts
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="VIP UK: Sky Sports F1 HD 1080p" tvg-logo="" group-title="United Kingdom",VIP UK: Sky Sports F1 HD 1080p
+http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/1819.ts
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="VIP UK: Sky Sports News HD 1080p" tvg-logo="" group-title="United Kingdom",VIP UK: Sky Sports News HD 1080p
+http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/4002.ts
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="VIP UK: BT Sport 2 HD 1080p" tvg-logo="" group-title="United Kingdom",VIP UK: BT Sport 2 HD 1080p
+http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/1826.ts
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="VIP UK: BT Sport 3 HD 1080p" tvg-logo="" group-title="United Kingdom",VIP UK: BT Sport 3 HD 1080p
+http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/1825.ts
+#EXTINF:-1 tvg-id="ZiggoSportSelect.nl" tvg-name="NL: Ziggo Sport Select FHD 1080" tvg-logo="" group-title="Netherlands",NL: Ziggo Sport Select FHD 1080
+http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/500.ts
+#EXTINF:-1 tvg-id="" tvg-name="NL: Eurosport 1 FHD 1080" tvg-logo="" group-title="Netherlands",NL: Eurosport 1 FHD 1080
+http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/483.ts
+#EXTINF:-1 tvg-id="Eurosport2.nl" tvg-name="NL: Eurosport 2 HD" tvg-logo="" group-title="Netherlands",NL: Eurosport 2 HD
+http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/482.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN : Ten Sports HD" tvg-logo="" group-title="India",IN : Ten Sports HD
+http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/3988.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN : STAR SPORTS 1 HD" tvg-logo="" group-title="India",IN : STAR SPORTS 1 HD
+http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/3928.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN : STAR SPORTS 2 HD" tvg-logo="" group-title="India",IN : STAR SPORTS 2 HD
+http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/3929.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN : Star Sports4-SD" tvg-logo="" group-title="India",IN : Star Sports4-SD
+http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/3933.ts
 #EXTINF:-1 tvg-id="" tvg-name="Latino: Film & Arts" tvg-logo="" group-title="Brasil",Latino: Film & Arts
 http://iptvnetwork.link:25461/live/wS87yhq5b5/lq1Ox98gQ8/3205.ts
 #EXTINF:-1 tvg-id="" tvg-name="Latino: FORO TV" tvg-logo="" group-title="Brasil",Latino: FORO TV
